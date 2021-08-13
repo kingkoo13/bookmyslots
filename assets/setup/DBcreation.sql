@@ -1,10 +1,10 @@
 
 --
--- Database: `klik_loginsystem`
+-- Database: `bookmyslots`
 --
 
-create schema klik_loginsystem;
-use klik_loginsystem;
+create schema bookmyslots;
+use bookmyslots;
 
 -- --------------------------------------------------------
 
